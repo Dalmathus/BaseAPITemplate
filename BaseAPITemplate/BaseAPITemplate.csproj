@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\BaseAPITemplate.Contracts\BaseAPITemplate.Contracts\BaseAPITemplate.Contracts.csproj" />
+    <ProjectReference Include="..\BaseAPITemplate.Contracts\BaseAPITemplate.Contracts.csproj" />
   </ItemGroup>
 
 </Project>
